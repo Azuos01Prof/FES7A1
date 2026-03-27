@@ -11,4 +11,3 @@ document.getElementById('animateButton').addEventListener('click', function() {
         }
     }, 5);
 });
-</html>
